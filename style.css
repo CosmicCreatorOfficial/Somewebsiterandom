@@ -23,6 +23,7 @@ nav ul {
 }
 
 nav li {
+    margin: top 5px;;
     margin-left: 5cm;
     text-align:center;
 }
