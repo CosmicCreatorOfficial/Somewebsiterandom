@@ -49,8 +49,8 @@ nav a:hover {
 
 #div1 {
     text-align:center;
-    justify-content:space-between;
-
+    justify-content:right;
+    margin-left:-7cm;
 }
 
 #join {
