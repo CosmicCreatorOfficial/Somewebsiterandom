@@ -68,8 +68,10 @@ img {
    height: 100vh;
 }
 
-div {
+.div {
     width:fit-content;
     height: 6cm;
     background-color: red;
+    margin-top: 4cm;
+    
 }
