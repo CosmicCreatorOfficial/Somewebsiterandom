@@ -7,7 +7,7 @@ body {
 header {
     background:linear-gradient(to bottom, #FF5733, #FFC300); 
     display: flex;
-    justify-content: ;
+    justify-content:center;
     align-items: center;
     padding: 10px 20px;
 }
@@ -40,3 +40,12 @@ nav a:hover {
     text-decoration: underline;
 }
 
+.sec1 {
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/home-workout-lead-1584370797.jpg");
+}
+
+#div1 {
+    text-align:center;
+    justify-content:space-between;
+
+}
