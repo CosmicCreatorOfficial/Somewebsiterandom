@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: #FF5733; /* Bright color for the navbar */
+    background:linear-gradient(to right, #FF5733, #FFC300); 
     display: flex;
     justify-content: space-between;
     align-items: center;
