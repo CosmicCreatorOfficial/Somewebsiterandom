@@ -24,8 +24,7 @@ nav ul {
 }
 
 nav li {
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 10px;
 }
 
 nav a {
