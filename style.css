@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background:linear-gradient(to right, #FF5733, #FFC300); 
+    background:linear-gradient(to bottom, #FF5733, #FFC300); 
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -24,7 +24,7 @@ nav ul {
 }
 
 nav li {
-    margin-right: 20px;
+    
 }
 
 nav a {
