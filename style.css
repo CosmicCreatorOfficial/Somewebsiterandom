@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background:transparent; 
+    background:blur; 
     display: flex;
     justify-content:center;
     align-items: center;
