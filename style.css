@@ -48,14 +48,9 @@ nav a:hover {
     background: url("https://hips.hearstapps.com/hmg-prod/images/home-workout-lead-1584370797.jpg");
     margin:0;
     height: 20cm;
+    text-align:center;
+    justify-content:left;
 
-}
-
-#div1 {
-    text-align:bottom;
-    justify-content:center;
-    margin-left;
-    margin-top:30px;
 }
 
 #join {
