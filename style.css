@@ -23,7 +23,7 @@ nav ul {
 }
 
 nav li {
-    margin: top 5px;;
+    margin: top 15px;;
     margin-left: 5cm;
     text-align:center;
 }
@@ -38,7 +38,6 @@ nav a {
 /* Style the navigation links on hover */
 nav a:hover {
     text-decoration: underline;
-    background-color: rgb(223, 220, 220);
 }
 
 .sec1 {
