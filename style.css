@@ -49,3 +49,8 @@ nav a:hover {
     justify-content:space-between;
 
 }
+
+#join {
+    background-color:limegreen;
+    color:black;
+}
