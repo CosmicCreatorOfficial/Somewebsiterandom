@@ -5,11 +5,10 @@ body {
 }
 
 header {
-    background:linear-gradient(to bottom, #FF5733, #FFC300); 
+    background:transparent; 
     display: flex;
     justify-content:center;
     align-items: center;
-    padding: 10px 20px;
 }
 
 .logo img {
@@ -38,6 +37,7 @@ nav a {
 /* Style the navigation links on hover */
 nav a:hover {
     text-decoration: underline;
+    background-color: rgb(223, 220, 220);
 }
 
 .sec1 {
