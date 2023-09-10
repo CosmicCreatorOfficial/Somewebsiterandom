@@ -19,7 +19,50 @@
     </header>
 </head>
 <body>
+    <h1><u>Recepies</u></h1>
+    <div class="flex-container">
+       <button id="flappy">
+        <br>
+        <a  href="/Games/flappybirds/">
+         <img src="/Games/flappybirds/assets/thumb.png">
+       <p>Flappy Bird</p>
+      </button>
+    </a>
+    </div>
     <style>
+           div{
+  display: flex;
+  justify-content: flex-start;
+       }
+
+         button{
+  transition: all 0.25s ease-in-out;
+  background-color: #b4c4b3;
+  border-radius: 25px;
+  margin-left: auto;
+  margin: right 20px;
+  height: 400px;
+  width: 300px;
+  margin-top: 20px;
+   }
+
+
+button:hover {
+  transform: scale(1.1);
+}
+        .flex-container {
+      display: flex;
+     flex-direction: row; /* Flex items will be arranged horizontally */
+     flex-wrap: wrap; /* Items will wrap to the next line if necessary */
+     justify-content: space-between; /* Items are evenly spaced along the main axis */
+     align-items: center; /* Items are centered along the cross axis */
+     align-content: flex-start; /* Lines are aligned to the start of the container */
+       }
+        h1 {
+    font-family: impact, serif;
+    color:#0c1c14;
+    font-size: 1.5cm;
+      }
         body {
     margin: 0;
     padding: 0;
@@ -65,6 +108,19 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+u{
+  color: #0c1c14;
+}
+
+a{
+  color: transparent;
+}
+
+   p{
+  font-family: impact, serif;
+  color:#0c1c14;
+  font-size: 30px;
+    }
         </style>
 </body>
 </html>
