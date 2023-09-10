@@ -63,6 +63,7 @@ nav a:hover {
     border-style:none;
     width:2.7cm;
     height:25px;
+    margin-top:7cm;
 }
 
 img {
@@ -70,10 +71,6 @@ img {
    height: 100vh;
 }
 
-.div {
-    width:fit-content;
-    height: 6cm;
-    background-color: red;
-    margin-top: 4in;
-    margin-left: 5cm
+p {
+  margin-top:6cm;
 }
